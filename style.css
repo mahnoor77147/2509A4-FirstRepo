@@ -1,0 +1,12 @@
+h1{
+    background-color: black;
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+}
+
+p{
+    text-align: center;
+    background-color: thistle;
+    border: 2px dotted black;
+}
